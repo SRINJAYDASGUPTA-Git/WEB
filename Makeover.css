@@ -1,21 +1,33 @@
 body{
-    font-family: sans-serif;
+    font-family: Lucida Sans;
 }
 h1{
+    text-align: "center";
     color:dodgerblue;
-    font-size:40px;
-    font-family: sans-serif;
+    font-size:60px;
+    font-family: Lucida;
     
     
 }
 h2{
     color:saddlebrown;
     font-size:20px;
-    font-family: cursive;
+    font-family: Monotype Corsiva;
+    text-align: "center";
 }
 p{
     font-size:20px;
-    text-align: center;
-    font-family: fantasy;
+    text-align: justify;
+    font-family: Open Sans ;
 }
 
+img{
+    width: 25%;
+    margin: 1px auto;
+    display: block;
+}
+
+a{
+    font-size: 20px;
+    font-style: italic;
+}
