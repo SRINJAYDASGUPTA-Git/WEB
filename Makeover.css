@@ -1,18 +1,21 @@
+body{
+    font-family: sans-serif;
+}
 h1{
     color:dodgerblue;
     font-size:40px;
-    font-family:sans-serif;
+    font-family: sans-serif;
     
     
 }
 h2{
     color:saddlebrown;
     font-size:20px;
-    font-family:cursive;
+    font-family: cursive;
 }
 p{
-    font-family:serif;
-    color:brown;
-  
-    
+    font-size:20px;
+    text-align: center;
+    font-family: fantasy;
 }
+
